@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### My Creative Works 
 
 [Project 1 - Galaxy Cat](/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
