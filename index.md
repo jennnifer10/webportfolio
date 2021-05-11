@@ -12,7 +12,7 @@
 <img src="images/Mother's Day Poster by Jennifer Aguayo.png?raw=true"/>
 
 ---
-[Project 3 Snow Overlay](http://example.com/)
+[Project 3 - Snow Overlay](http://example.com/)
 <img src="images/snow girl 2.jpg?raw=true"/>
 
 ---
