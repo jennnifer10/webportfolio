@@ -9,7 +9,7 @@
 
 ---
 [Project 2 - Mother's Day poster](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+<img src="images/Mother's Day Poster by Jennifer Aguayo.png?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
