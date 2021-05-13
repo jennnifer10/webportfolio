@@ -17,7 +17,7 @@
 
 ---
 [Project 4 - Earth Day](http://example.com/)
-<img src="images/snow girl 2.jpg?raw=true"/>
+<img src="images/air pollution.jpg?raw=true"/>
 
 ### Category Name 2
 
